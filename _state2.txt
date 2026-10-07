@@ -1,0 +1,15 @@
+﻿--- config ---
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+
+--- branch ---
+* main a498460 test
+
+--- reflog ---
+a498460 HEAD@{0}: commit (initial): test
+

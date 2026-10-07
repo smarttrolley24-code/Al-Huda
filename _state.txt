@@ -1,0 +1,28 @@
+﻿--- git dir ---
+True
+--- remotes ---
+
+--- log ---
+a498460 test
+
+--- status ---
+
+--- gh auth ---
+gh.exe : You are not logged into any GitHub hosts. To log in, run: gh auth login
+At line:1 char:444
++ ... --'; $r += (& 'C:\Program Files\GitHub CLI\gh.exe' auth status 2>&1 | ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (You are not log...: gh auth login:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+--- vercel ---
+node.exe : Vercel CLI 42.2.0
+At C:\Users\zohai\AppData\Roaming\npm\vercel.ps1:24 char:5
++     & "node$exe"  "$basedir/node_modules/vercel/dist/vc.js" $args
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Vercel CLI 42.2.0:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+zaibiiiiiii
+

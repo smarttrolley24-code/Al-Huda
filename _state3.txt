@@ -1,0 +1,25 @@
+﻿--- vercel projects ---
+node.exe : Vercel CLI 42.2.0
+At C:\Users\zohai\AppData\Roaming\npm\vercel.ps1:24 char:5
++     & "node$exe"  "$basedir/node_modules/vercel/dist/vc.js" $args
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Vercel CLI 42.2.0:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Fetching projects in zohaibs-projects-6d8c5aa2
+> Projects found under zohaibs-projects-6d8c5aa2  [2s]
+
+  Project Name     Latest Production URL                                         Updated   Node Version   
+  wallet-connect   https://wallet-connect-zohaibs-projects-6d8c5aa2.vercel.app   135d      22.x           
+
+
+--- vercel deployments ---
+node.exe : Vercel CLI 42.2.0
+At C:\Users\zohai\AppData\Roaming\npm\vercel.ps1:24 char:5
++     & "node$exe"  "$basedir/node_modules/vercel/dist/vc.js" $args
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Vercel CLI 42.2.0:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+? Set up ΓÇ£~\Downloads\Al-HudaΓÇ¥? (Y/n)[39G
+
